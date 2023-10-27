@@ -1,2 +1,3 @@
 # sezenwajiaku.github.io
-theme: architect
+_config.yml
+theme: Architect
